@@ -123,7 +123,7 @@ Lisätietoja osan esitietovaatimuksista ja tehtävien palauttamisesta löydät [
 Kurssin suoritusohjeet pähkinänkuoressa (5 op ydinkurssi CSM141081) 
 
 - Tee tehtävät. Palauta vastauksesi [palautussovelluksen](https://studies.cs.helsinki.fi/stats/courses/fullstackopen) kautta.
-- Ilmoittaudu kurssille. Pääset ilmoittautumaan palautussovelluksesta löytyvän [linkin](/osa0/yleista#kurssikoe) kautta sen jälkeen kun olet palauttanut riittävän määrän tehtäviä. 
+- Ilmoittaudu kurssille. Pääset ilmoittautumaan palautussovelluksesta löytyvän [linkin](/osa0/yleista#kurssikokeeseen-ilmoittautuminen) kautta sen jälkeen kun olet palauttanut riittävän määrän tehtäviä. 
 - Aktivoi Helsingin yliopiston käyttäjätunnus. Käyttäjätunnus myönnetään sinulle ilmoittautumisesi yhteydessä. Käyttäjätunnus tulee aktivoida ennen kurssikokeen suorittamista. Lue lisää [täältä](osa0/yleista/#kurssikokeeseen-ilmoittautuminen). 
 - Tee verkkotentti Moodlessa. Pääset Moodleen [tämän](https://moodle.helsinki.fi/course/view.php?id=46197) linkin kautta. Kirjaudu Moodleen Helsingin yliopiston käyttäjätunnuksella.  
 - Tallenna Helsingin yliopiston opiskelijanumerosi palautussovellukseen. Lue lisää [täältä](/osa0/yleista/#suoritusmerkinnan-pyytaminen)
@@ -159,7 +159,7 @@ Virallinen kurssisuoritus edellyttää että teet hyväksyttävästi kurssikokee
 
 Pääset Moodleen [tämän linkin](https://moodle.helsinki.fi/course/view.php?id=46197) kautta, sen jälkeen kun olet:
   - Ilmoittautunut Avoimen yliopiston kautta kurssille, ja
-  - aktivoinut Helsingin ylipiston käyttäjätunnuksen.
+  - aktivoinut Helsingin yliopiston käyttäjätunnuksen.
 
 Käyttäjätunnus myönnetään sinulle ilmoittautumisesi yhteydessä. Se tulee aktivoida ennen kurssikokeen suorittamista. [Lue lisää käyttäjätunnuksen aktivoinnista](https://studies.helsinki.fi/ohjeet/artikkeli/helsingin-yliopiston-kayttajatunnus-avoin-yliopisto).
 
@@ -181,7 +181,7 @@ Paina siis sinistä nappia "I have completed the course ..."!
 
 Arvosana siirtyy Helsingin yliopiston opintorekisteriin Sisuun ja [Opintopolkuun](https://opintopolku.fi/oma-opintopolku/) neljän viikon sisällä suoritusmerkintäpyynnön jälkeen. Heinäkuu saattaa aiheuttaa viiveen suorituksen kirjaamiseen.
 
-**Huomaa**, että suoritusmerkintää ei voida kirjata jos et ole ilmoittanutunut kaikkiin suorittamiisi osiin, katso [täältä](/osa0/yleista#osat-ja-suorittaminen) ohjeet ilmoittautumiseen.
+**Huomaa**, että suoritusmerkintää ei voida kirjata jos et ole ilmoittautunut kaikkiin suorittamiisi osiin, katso [täältä](/osa0/yleista#osat-ja-suorittaminen) ohjeet ilmoittautumiseen.
 
 ### Miten saan selville Helsingin yliopiston opiskelijanumeroni?
 
